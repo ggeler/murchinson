@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 archivo de prueba
+=======
+archivo de prueba2
+>>>>>>> dc10167 (test)
